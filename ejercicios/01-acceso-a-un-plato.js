@@ -26,14 +26,14 @@ function describirPlato(menu, posicion) {
 
 
     if (plato === undefined) {
-        return "Ese plato no existe en nuestro Menú ";
+        return "Ese plato no existe";
     }
         return `${plato.nombre} · $${plato.precio}`;
     }
 
 
 
-
+    
 
 
 
