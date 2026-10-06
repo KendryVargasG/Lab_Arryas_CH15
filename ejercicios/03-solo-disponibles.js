@@ -29,11 +29,11 @@ function soloDisponibles(menu) {
             disponibles.push(menu[i]);
         }
     }
+
     return disponibles;
 }
 
   
-
 
 
 
